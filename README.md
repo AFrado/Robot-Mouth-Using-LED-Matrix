@@ -1,6 +1,10 @@
 # Robot-Mouth-Using-LED-Matrix
 This project demonstrates how to simulate a robot mouth on an 8x8 LED matrix controlled by a MAX7219 driver using an ESP32-S3. The code includes functions to display different mouth patterns: smiling, natural, and sad, cycling between them.
 
+**Components**
+- LED Matrix 8x8
+- ESP32-S3
+
 **Patterns**
 
 Smiling Mouth Pattern
