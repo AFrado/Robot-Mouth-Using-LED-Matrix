@@ -7,23 +7,26 @@ This project demonstrates how to simulate a robot mouth on an 8x8 LED matrix con
 
 **Patterns**
 
-Smiling Mouth Pattern
+- Smiling Mouth Pattern
 
 Hex Code: 0x00, 0x00, 0x00, 0x81, 0x81, 0x42, 0x3C, 0x00
 
 Represents a smiling mouth on the LED matrix.
 
-Sad Mouth Pattern
+
+- Sad Mouth Pattern
 
 Hex Code: 0x00, 0x00, 0x00, 0x00, 0xFF, 0x7E, 0x00, 0x00
 
 Represents a sad mouth on the LED matrix.
 
-Natural Mouth Pattern
+
+- Natural Mouth Pattern
 
 Hex Code: 0x00, 0x00, 0x00, 0x3C, 0xC3, 0x42, 0x3C, 0x00
 
 Represents a neutral mouth on the LED matrix.
+
 
 ![image](https://github.com/user-attachments/assets/0d7814b0-ceb1-4e61-a441-d9f7c0e889c3)
 
